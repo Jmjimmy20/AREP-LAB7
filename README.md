@@ -12,8 +12,8 @@
   
 # - Capturas
 
-![](img/1.PNG)
-![](img/2.PNG)
+![](images/1.PNG)
+![](images/2.PNG)
   
 
 
